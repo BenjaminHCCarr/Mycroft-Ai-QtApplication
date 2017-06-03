@@ -1,3 +1,7 @@
+# Project #
+###########
+mycroft-qtapplication.pro.use*
+
 # Prerequisites #
 #################
 *.d
