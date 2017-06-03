@@ -1,0 +1,6 @@
+*.pyc
+.env
+.env*
+db.sqlite3
+staticfiles/*
+*.AppImage
